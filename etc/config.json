@@ -1,0 +1,13 @@
+{
+    "apiPrefix":"",
+    "serverPort":"",
+    "db":
+	{
+        "dbHost":"212.154.158.22",
+        "dbPort":"64006",
+        "dbName":"css",
+        "dbUser":"ssuser",
+        "dbPass":"Kc35tr2@",
+        "code":"utf8"
+    }
+}
